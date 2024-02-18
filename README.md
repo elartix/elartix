@@ -19,7 +19,7 @@
   <summary><h2>📊 Stats and Activity</h2></summary>
   <h3>🔥 Streak Stats</h3>
   <p>
-     <a href="https://github.com/elartix/elartix"><img src="https://github-readme-streak-stats.herokuapp.com?user=elartix&hide_border=true&exclude_days=Sun%2CSat&currStreakNum=0057B7&ring=0057B7" alt="GitHub Streak" /></a>
+     <a href="https://github.com/elartix/elartix"><img src="https://github-readme-streak-stats.herokuapp.com?user=elartix&hide_border=true&exclude_days=Sun%2CSat&currStreakNum=0057B7&ring=0057B7&sideLabels=0057B7&sideNums=FB8C00" alt="GitHub Streak" /></a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
