@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, <br />I'm Volodymyr Mechkauskas</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0057b7&center=false&vCenter=true&random=false&width=512&lines=A+passionate+frontend+developer+from+Ukraine;With+more+than+13+years+of+experience+in+pure-coded+frontend+development" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0057b7&center=true&vCenter=true&random=false&width=512&lines=A+passionate+frontend+developer+from+Ukraine;With+more+than+13+years+of+experience;in+pure-coded+frontend+development" alt="Typing SVG" />
+</a>
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-vmechkauskas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vmechkauskas/)](https://www.linkedin.com/in/vmechkauskas/)
