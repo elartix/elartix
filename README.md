@@ -7,12 +7,15 @@
 </p>
 
 <p align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-vmechkauskas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vmechkauskas/)](https://www.linkedin.com/in/vmechkauskas/)
-[![Linkedin Badge](https://img.shields.io/badge/-vmechkauskas-darkgreen?style=flat&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~011cf3286bd5f6e16c?mp_source=share)](https://www.upwork.com/freelancers/~011cf3286bd5f6e16c?mp_source=share)
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-[![Made in Ukraine](https://img.shields.io/badge/made_in-Ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
-
+<a href="https://www.linkedin.com/in/vmechkauskas/" title="LinkedIn">
+<img src="https://img.shields.io/badge/-vmechkauskas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vmechkauskas/" alt="LinkedIn" />
+</a>
+<a href="https://www.upwork.com/freelancers/~011cf3286bd5f6e16c?mp_source=share" title="Upwork">
+<img src="https://img.shields.io/badge/-vmechkauskas-darkgreen?style=flat&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~011cf3286bd5f6e16c?mp_source=share" alt="Upwork" />
+</a>
+<a href="https://stand-with-ukraine.pp.ua" title="Made in Ukraine">
+<img src="https://img.shields.io/badge/made_in-Ukraine-ffd700.svg?labelColor=0057b7" alt="Upwork" />
+</a>
 </p>
 
 <details open>
