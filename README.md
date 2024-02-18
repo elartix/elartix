@@ -209,7 +209,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
       alt="elartix"
-      src="https://github-profile-trophy.vercel.app/?username=elartix"
+      src="https://github-profile-trophy.vercel.app/?username=elartix&column=3"
     />
   </a>
 </p>
