@@ -38,6 +38,9 @@
     <a href="https://github.com/search?q=user%3Aelartix+is%3Arepo+language%3Acss">
       <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white">
     </a>
+    <a href="https://github.com/search?q=user%3Aelartix+is%3Arepo+language%3Acss">
+      <img alt="Less" src="https://img.shields.io/badge/Less-2B4C80?style=flat&logo=less&logoColor=white">
+    </a>
     <a href="#">
       <img alt="JavaScript"
            src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
@@ -50,7 +53,7 @@
 <h3>🧰 Libraries & Frameworks:</h3>
   <p>
     <a href="https://getbootstrap.com/" target="_blank">
-      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff" alt="bootstrap"/>
+      <img src="https://img.shields.io/badge/-Bootstrap-8511FA?logo=bootstrap&logoColor=ffffff" alt="bootstrap"/>
     </a>
     <a href="https://tailwindcss.com/" target="_blank">
       <img src="https://img.shields.io/badge/-Tailwind_CSS-E1E5FE?logo=tailwindcss&logoColor=06B6D4" alt="tailwindcss"/>
@@ -59,7 +62,7 @@
       <img alt="Headless UI" src="https://img.shields.io/badge/Headless_UI-111827?logo=Headless-UI&logoColor=69B2FC">
     </a>
     <a href="https://mui.com/" target="_blank">
-      <img alt="MUI" src="https://img.shields.io/badge/-Material_UI-007FFF?logo=mui&logoColor=white">
+      <img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white">
     </a>
     <a href="#">
       <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
@@ -68,10 +71,16 @@
       <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white">
     </a>
     <a href="#">
+      <img alt="React Hook Form" src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white">
+    </a>
+    <a href="#">
       <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white">
     </a>
     <a href="#">
       <img alt="Redux-Saga" src="https://img.shields.io/badge/Redux-Saga-86d46b?logo=Redux-Saga&logoColor=white&labelColor=593D88">
+    </a>
+    <a href="#">
+      <img alt="Redux-Form" src="https://img.shields.io/badge/Redux_Form-0E81C5?style=flat&logo=redux&logoColor=white">
     </a>
     <a href="#">
       <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?logo=Axios&logoColor=white">
@@ -83,6 +92,9 @@
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
     <a href="#">
       <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=61DAFB">
     </a>
     <a href="#">
       <img alt="Strapi" src="https://img.shields.io/badge/Strapi-4945FF?logo=strapi&logoColor=white">
@@ -157,6 +169,14 @@
     <a href="#">
       <img alt="Adobe Illustrator"
            src="https://img.shields.io/badge/-Adobe_Illustrator-310000?logo=adobe-illustrator&logoColor=F79500">
+    </a>
+    <a href="#">
+      <img alt="ESLint"
+           src="https://img.shields.io/badge/ESLint-4B32C3.svg?logo=ESLint&logoColor=white">
+    </a>
+    <a href="#">
+      <img alt="EditorConfig"
+           src="https://img.shields.io/badge/EditorConfig-E0EFEF.svg?logo=EditorConfig&logoColor=black">
     </a>
   </p>
 </details>
