@@ -6,10 +6,14 @@
 </a>
 </p>
 
+<p align="center">
+
 [![Linkedin Badge](https://img.shields.io/badge/-vmechkauskas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vmechkauskas/)](https://www.linkedin.com/in/vmechkauskas/)
 [![Linkedin Badge](https://img.shields.io/badge/-vmechkauskas-darkgreen?style=flat&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~011cf3286bd5f6e16c?mp_source=share)](https://www.upwork.com/freelancers/~011cf3286bd5f6e16c?mp_source=share)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 [![Made in Ukraine](https://img.shields.io/badge/made_in-Ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
+
+</p>
 
 <details open>
   <summary><h2>📊 Stats and Activity</h2></summary>
@@ -28,7 +32,8 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience
 or skill level.
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="elartix's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=elartix&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="elartix's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=elartix&bg_color=ffffff&color=0057b7&line=0057b7&point=000&area=true&area_color=FFD700&hide_border=true" /></a>
+
 </details>
 
 <h2>🏆 GitHub Profile Trophy </h2>
