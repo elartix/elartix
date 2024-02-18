@@ -9,17 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vmechkauskas/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/vmechkauskas/" title="LinkedIn" style="display: inline-block;text-decoration: none;">
     <img
       src="https://img.shields.io/badge/-vmechkauskas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vmechkauskas/"
       alt="LinkedIn"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~011cf3286bd5f6e16c?mp_source=share" title="Upwork">
+  <a href="https://www.upwork.com/freelancers/~011cf3286bd5f6e16c?mp_source=share" title="Upwork" style="display: inline-block;text-decoration: none;">
     <img
       src="https://img.shields.io/badge/-vmechkauskas-darkgreen?style=flat&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~011cf3286bd5f6e16c?mp_source=share"
       alt="Upwork"/>
   </a>
-  <a href="https://stand-with-ukraine.pp.ua" title="Was born in Ukraine">
+  <a href="https://stand-with-ukraine.pp.ua" title="Was born in Ukraine" style="display: inline-block;text-decoration: none;">
     <img src="https://img.shields.io/badge/Was_born_in-Ukraine-ffd700?labelColor=0057b7" alt="Ukraine"/>
   </a>
 </p>
