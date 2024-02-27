@@ -26,12 +26,26 @@
 
 <details open>
   <summary><h2><img alt="Open Source" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Open_Source_Initiative_keyhole.svg" width="24px" height="24px" /> Open Source Projects</h2></summary>
-  <h3>1. <a href="https://github.com/TECH-Rubicone/redux-saga-controller" target="_blank">redux-saga-controller</a></h3>
-  <p>
-    <a href="https://github.com/TECH-Rubicone/redux-saga-controller" target="_blank">
-      <img src="https://redux-saga-controller.js.org/img/meta.svg" width="600px" alt="redux-saga-controller"/>
-    </a>
-  </p>
+  <dl>
+    <dt>
+      <h3>1. <a href="https://github.com/TECH-Rubicone/redux-saga-controller" target="_blank">redux-saga-controller</a></h3>
+    </dt>
+    <dd>
+      <p>
+        <a href="https://github.com/TECH-Rubicone/redux-saga-controller" target="_blank">
+          <img src="https://redux-saga-controller.js.org/img/meta.svg" width="600px" alt="redux-saga-controller"/>
+        </a>
+      </p>
+    </dd>
+    <dt>
+      <h3>2. <a href="https://github.com/elartix/vite-react-ts-zustand-tw" target="_blank">Vite + React + TypeScript + Zustand + Tailwind</a></h3>
+    </dt>
+    <dd>
+      <p>
+        This template provides a minimal setup to get React with TypeScript + Zustand + Tailwind and working in Vite.
+      </p>
+    </dd>
+  </dl>
 </details>
 
 
