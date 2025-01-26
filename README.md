@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vmechkauskas/" title="LinkedIn" style="display: inline-block;text-decoration: none;">
     <img
-      src="https://img.shields.io/badge/-vmechkauskas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vmechkauskas/"
+      src="https://img.shields.io/badge/-vmechkauskas-blue?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTkgMGgtMTRjLTIuNzYxIDAtNSAyLjIzOS01IDV2MTRjMCAyLjc2MSAyLjIzOSA1IDUgNWgxNGMyLjc2MiAwIDUtMi4yMzkgNS01di0xNGMwLTIuNzYxLTIuMjM4LTUtNS01em0tMTEgMTloLTN2LTExaDN2MTF6bS0xLjUtMTIuMjY4Yy0uOTY2IDAtMS43NS0uNzktMS43NS0xLjc2NHMuNzg0LTEuNzY0IDEuNzUtMS43NjQgMS43NS43OSAxLjc1IDEuNzY0LS43ODMgMS43NjQtMS43NSAxLjc2NHptMTMuNSAxMi4yNjhoLTN2LTUuNjA0YzAtMy4zNjgtNC0zLjExMy00IDB2NS42MDRoLTN2LTExaDN2MS43NjVjMS4zOTYtMi41ODYgNy0yLjc3NyA3IDIuNDc2djYuNzU5eiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==&logoColor=white&link=https://www.linkedin.com/in/vmechkauskas/"
       alt="LinkedIn"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~011cf3286bd5f6e16c?mp_source=share" title="Upwork" style="display: inline-block;text-decoration: none;">
