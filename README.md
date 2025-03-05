@@ -214,7 +214,7 @@
     <a href="https://github.com/elartix/elartix">
       <img
         alt="GitHub Streak"
-        src="https://github-readme-streak-stats.herokuapp.com?user=elartix&hide_border=true&exclude_days=Sun%2CSat&currStreakNum=0057B7&ring=0057B7&sideLabels=0057B7&sideNums=FB8C00"
+        src="https://github-readme-streak-stats-eight.vercel.app?user=elartix&hide_border=true&exclude_days=Sun%2CSat&currStreakNum=0057B7&ring=0057B7&sideLabels=0057B7&sideNums=FB8C00"
       />
     </a>
   </p>
@@ -232,7 +232,7 @@
     <a href="https://github.com/elartix/elartix">
       <img
         alt="elartix's Top Languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=elartix&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook"
+        src="https://github-readme-streak-stats-eight.vercel.app?username=elartix&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook"
         height="192px"
       />
     </a>
